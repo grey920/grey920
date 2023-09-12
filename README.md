@@ -5,8 +5,6 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grey920&layout=compact&theme=transparent)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=grey920&theme=tokyonight)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=grey920&theme=nord)](https://github.com/grey920/github-readme-activity-graph)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=grey920&show_icons=true&theme=radical)
 
 
